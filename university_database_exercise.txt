@@ -17,7 +17,7 @@
 
 	SELECT *
 	FROM `students`
-	WHERE `enrolment_date` LIKE '%21';
+	WHERE `enrolment_date` LIKE '2021%';
 
 
 
