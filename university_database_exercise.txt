@@ -1,7 +1,7 @@
 1. Selezionare tutti gli insegnanti
 
-	SELECT `head_of_department`
-	FROM `departements`;
+	SELECT *
+	FROM `teachers`;
 
 
 
